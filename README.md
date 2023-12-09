@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack Development<br>👯 I’m looking to collaborate on challenging and interesting projects and ideas <br>🤝 I’m looking for help with <br>🌱 I’m currently learning more on Web dev , Problem solving and leet code<br>💬 Ask me about full stack development
+🔭 I’m currently working on Full stack Development<br>👯 I’m looking to collaborate on challenging and interesting projects and ideas <br>🤝 I’m interested in keeping up-to-date with latest technological developments <br>🌱 I’m currently learning more on Web dev , Problem solving and leet code<br>💬 Ask me about full stack development
 
 
 ## 🌐 Socials:
